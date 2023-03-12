@@ -1,5 +1,5 @@
 # AmazingNumbers
-a program that indicates the properties of the numbers taken from the input.
+That is a program that indicates the properties of the numbers taken from the input.
 
 
 -Buzz numbers
