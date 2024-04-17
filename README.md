@@ -11,3 +11,4 @@ That is a program that indicates the properties of the numbers taken from the in
 -Palindromic numbers
 (A Palindromic number is symmetrical; in other words, it stays the same regardless of whether we read it from left or right)
 
+ 
