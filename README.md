@@ -1,7 +1,7 @@
 # AmazingNumbers
 That is a program that indicates the properties of the numbers taken from the input.
 
-
+ 
 -Buzz numbers
 (They are numbers that are either divisible by 7 or end with 7)
 
